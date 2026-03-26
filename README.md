@@ -1,58 +1,150 @@
-<h1 align="center">Jagdish Kumawat</h1>
-<h3 align="center">Linux / DevOps • Networking • Server Security</h3>
+<h1 align="center">Hi 👋, I'm Jagdish Kumawat</h1>
+<h3 align="center">🚀 DevOps Engineer | 🌐 Networking | 🔐 Server Security Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=VPS+Provisioning+%26+Deployment;Nginx+Reverse+Proxy+%26+PM2;Cloudflare+DNS+%2F+SSL+%2F+Caching;SSH+Hardening+%26+Firewall;Backups+%2F+Automation+%2F+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Linux+Server+Admin;Nginx+%7C+PM2+%7C+Node.js+Deployment;Cloudflare+%7C+DNS+%7C+Security;Automation+%7C+Backups+%7C+Monitoring;Cyber+Security+Learner" />
 </p>
 
 ---
 
-## 🧭 What I Do
+## 🔭 What I'm Working On
 
-- Provision and secure **Ubuntu-based VPS**
-- Deploy **Node.js apps** behind **Nginx reverse proxy**
-- Manage **processes with PM2** (cluster, logs, startup)
-- Configure **Cloudflare DNS, SSL, caching**
-- Implement **security hardening** (SSH, UFW, Fail2Ban)
-- Automate **backups, cron jobs, log rotation**
+- ⚙️ Building **production-ready VPS setups**
+- 🔐 Improving **server security & hardening techniques**
+- 🌐 Working on **real-world domain + hosting deployments**
+- 🚀 Optimizing **Node.js apps with Nginx + PM2**
 
 ---
 
-## 🧰 Stack
+## 🌱 Currently Learning
+
+- 🔥 Advanced **Cyber Security (Server Side)**
+- ⚡ **Docker & Container Deployment**
+- 📡 Advanced **Networking & Firewall Systems**
+- 🤖 Automation & scripting (Bash)
+
+---
+
+## 👯 Looking to Collaborate On
+
+- DevOps Projects  
+- Server Deployment Systems  
+- Hosting & Infrastructure setups  
+- Security-focused backend systems  
+
+---
+
+# 💬 Skills
+
+| 🚀 Skill Area | ⭐ Level | 🛠️ Tools & Tech |
+|--------------|--------|----------------|
+| Linux Server Administration | ⭐⭐⭐⭐ | Ubuntu, SSH, Systemctl, Cron |
+| Web Server Management | ⭐⭐⭐⭐ | Nginx, Apache |
+| Process Management | ⭐⭐⭐⭐ | PM2 |
+| Backend Deployment | ⭐⭐⭐ | Node.js, Express |
+| Database Handling | ⭐⭐⭐ | MongoDB, MySQL |
+| Networking | ⭐⭐⭐ | Ports, Routing, Firewall |
+| Security & Hardening | ⭐⭐⭐ | UFW, Fail2Ban, SSH Security |
+| Cloud & CDN | ⭐⭐⭐ | Cloudflare |
+| Automation | ⭐⭐⭐ | Bash Scripts, Cron Jobs |
+| Containerization | ⭐⭐ | Docker |
+
+---
+
+# 🚀 Projects
+
+## 🔹 VPS Production Deployment System
+💡 Complete VPS setup with security, deployment & automation  
+
+- Nginx reverse proxy setup  
+- PM2 process management  
+- SSL + domain linking  
+- Firewall + SSH hardening  
+
+🧰 Tech Stack: Linux, Nginx, PM2, Cloudflare  
+📊 Outcome: Stable & secure production server setup  
+
+---
+
+## 🔹 Node.js Production Deployment
+💡 Real-world Node.js app deployment  
+
+- Nginx reverse proxy  
+- PM2 cluster mode  
+- Zero downtime restart  
+- Logging & monitoring  
+
+🧰 Tech Stack: Node.js, PM2, Nginx  
+📊 Outcome: Production-ready backend system  
+
+---
+
+## 🔹 Database Backup Automation
+💡 Automated MongoDB & MySQL backups  
+
+- Cron-based scheduling  
+- Auto file naming (date-based)  
+- Restore-ready dumps  
+
+🧰 Tech Stack: Bash, MongoDB, MySQL  
+📊 Outcome: Reliable backup system  
+
+---
+
+## 🔹 Secure Server Setup
+💡 Hardened Linux server  
+
+- SSH key authentication  
+- Disable root login  
+- UFW firewall setup  
+- Fail2Ban protection  
+
+🧰 Tech Stack: Linux, Security Tools  
+📊 Outcome: Secure production server  
+
+---
+
+# 💻 Tech Stack
+
+## 🧠 Core Technologies
+Linux • Nginx • PM2 • Node.js • MongoDB • MySQL • Cloudflare • Git
+
+## ⚙️ DevOps Tools
+Bash • Cron • Docker (Basic) • SSH • UFW • Fail2Ban
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,nginx,nodejs,mongodb,mysql,git,github,cloudflare,bash,docker" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kumawat9007&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumawat9007&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## ⚙️ Capabilities (Practical)
+# 🏆 Achievements
 
-| Area | What I Handle |
-|---|---|
-| Linux | users/permissions, systemd, logs (`journalctl`), disk/IO basics |
-| Nginx | reverse proxy, SSL, gzip, caching, rate limiting |
-| PM2 | cluster mode, auto-start, log management |
-| DB | MongoDB / MySQL backups & restore |
-| Security | SSH hardening, UFW, Fail2Ban, key-based auth |
-| DNS/CDN | Cloudflare (A/AAAA/CNAME, proxy, SSL modes) |
-| Automation | cron jobs, backup scripts |
-| Containers | Docker (run images, ports, volumes – basic) |
-| Monitoring | logs, uptime checks, CPU/RAM observation |
-| Networking | ports, firewall rules, basic routing/NAT |
+- 🚀 Multiple VPS Deployments Completed  
+- 🔐 Secure Server Implementations  
+- ⚙️ Automation Scripts Built  
+- 🌐 Real Hosting & Domain Work  
 
 ---
 
-## 🔐 Security Baseline
+# 🌐 Connect
 
-```bash id="secblock01"
-# SSH
-PermitRootLogin no
-PasswordAuthentication no
-PubkeyAuthentication yes
+- 📧 Email: your@email.com  
+- 🌍 Website: yourdomain.com  
 
-# UFW (example)
-ufw default deny incoming
-ufw allow 22/tcp
-ufw allow 80,443/tcp
-ufw enable
+---
+
+# ⚡ DevOps Mindset
+
+> "Secure • Optimize • Automate • Scale"
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+</p>
