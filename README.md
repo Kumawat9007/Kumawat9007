@@ -130,12 +130,6 @@ Bash • Cron • Docker (Basic) • SSH • UFW • Fail2Ban
 - ⚙️ Automation Scripts Built  
 - 🌐 Real Hosting & Domain Work  
 
----
-
-# 🌐 Connect
-
-- 📧 Email: your@email.com  
-- 🌍 Website: yourdomain.com  
 
 ---
 
